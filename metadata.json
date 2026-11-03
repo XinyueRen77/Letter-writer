@@ -1,0 +1,6 @@
+{
+  "name": "Epistle - AI Letter Assistant",
+  "description": "Craft thoughtful, beautifully formatted personal and professional letters with intelligent tone tuning, templates, and export tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
